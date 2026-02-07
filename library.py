@@ -56,8 +56,12 @@ while True:
         print("Invalid choice! Please enter between 1 to 5.")
 
        print("New update")
+ HEAD
     print("another update")
     
     
+
+    print("next update")
+ dev2
 
 
