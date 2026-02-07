@@ -1,4 +1,7 @@
 # Library Management System (Simple Beginner Program)
+username = input("Enter username: ")
+password = input("Enter password: ")
+print("Login Completed")
 
 books = []
 
@@ -53,5 +56,6 @@ while True:
         print("Invalid choice! Please enter between 1 to 5.")
 
        print("New update")
+    
 
 
